@@ -1,0 +1,6 @@
+[staging_servers]
+18.188.146.153
+
+[prod_servers]
+linuxdigitalocean1 ansible_host=159.65.43.90
+linixdigitalocean2 ansible_host=159.89.177.156
